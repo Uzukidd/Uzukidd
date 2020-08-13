@@ -2,7 +2,7 @@
 
 #### 欢迎来到为了去中心化而组建的世界革命委员会，欢迎下载我们的开源项目。
 
-#### 此処ここ<ruby>此処<rt>ここ</rt></ruby>は地方分権ちほうぶんけん<ruby>地方分権<rt>ちほうぶんけん</rt></ruby>の為ため<ruby>為<rt>ため</rt></ruby>に結成けっせい<ruby>結成<rt>けっせい</rt></ruby>される世界革命委員会せかいかくめいいいんかい<ruby>世界革命委員会<rt>せかいかくめいいいんかい</rt></ruby>で、オープンソースopen-source<ruby>オープンソース<rt>open-source</rt></ruby>プロジェクトproject<ruby>プロジェクト<rt>project</rt></ruby>のクローニングへcloning<ruby>クローニングへ<rt>cloning</rt></ruby>ようこそ。
+#### <ruby>此処<rt>ここ</rt></ruby>は<ruby>地方分権<rt>ちほうぶんけん</rt></ruby>の<ruby>為<rt>ため</rt></ruby>に<ruby>結成<rt>けっせい</rt></ruby>される<ruby>世界革命委員会<rt>せかいかくめいいいんかい</rt></ruby>で、<ruby>オープンソース<rt>open-source</rt></ruby><ruby>プロジェクト<rt>project</rt></ruby>の<ruby>クローニングへ<rt>cloning</rt></ruby>ようこそ。
 
 #### Welcome to the World Revolution Committee established for decentralization, open-source projects cloning is welcomed.
 
