@@ -1,6 +1,6 @@
 # 団結！忠誠！必勝！革命！
 
-#### 欢迎来到为了去中心化而组建的世界革命委员会，欢迎下载我们的开源项目。
+#### 这里是为了去中心化而被组建的世界革命委员会，欢迎下载我们的开源项目。
 
 #### <ruby>此処<rt>ここ</rt></ruby>は<ruby>地方分権<rt>ちほうぶんけん</rt></ruby>の<ruby>為<rt>ため</rt></ruby>に<ruby>結成<rt>けっせい</rt></ruby>される<ruby>世界革命委員会<rt>せかいかくめいいいんかい</rt></ruby>で、<ruby>オープンソース<rt>open-source</rt></ruby><ruby>プロジェクト<rt>project</rt></ruby>の<ruby>クローニングへ<rt>cloning</rt></ruby>ようこそ。
 
