@@ -1,5 +1,5 @@
-<h1 align="center"> Uzuki Ishikawajima</h1>
-<h3 align="center">Auto-vehicle research grad employee | Translator </h3>
+<h1 align="center">Uzuki Ishikawajima</h1>
+<h3 align="center">Computer vision (CV) research graduate & employee | Translator </h3>
 
 <p align="center"> "Don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly." --Franz Kafka
 </p>
